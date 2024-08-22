@@ -1,0 +1,19 @@
+{
+    "categories": [
+      {
+        "categoryName": "CSPM Executive Dashboard",
+        "widgets": [
+          { "widgetName": "Widget 1", "widgetText": "Random text 1" },
+          { "widgetName": "Widget 2", "widgetText": "Random text 2" }
+        ]
+      },
+      {
+        "categoryName": "Another Category",
+        "widgets": [
+          { "widgetName": "Widget 3", "widgetText": "Random text 3" },
+          { "widgetName": "Widget 4", "widgetText": "Random text 4" }
+        ]
+      }
+    ]
+  }
+  
